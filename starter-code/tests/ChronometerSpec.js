@@ -1,4 +1,5 @@
 describe('', function () {
+  let chronometer;
   beforeEach(function () {
     chronometer = new Chronometer();
   });
